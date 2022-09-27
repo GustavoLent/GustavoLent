@@ -1,16 +1,21 @@
-### Hi there 👋
+### 🧙 Hello there!
 
-<!--
-**GustavoLent/GustavoLent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer, currently working with Node.js and Java, on Drools Workbench and Kogito.
+This is my nerd space, my bad that we can't watch star wars here or play Tony Hawks Pro Skater 1, but I hope you like the code that I write on my free time - or for college tasks.
 
-Here are some ideas to get you started:
+- 🚀 I’m currently studying
+  - Node.js
+  - Kafka
+  - TypeScript
+  - Microservices
+  - Design Patterns
+  - Best pratices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤩 Things that I like
+  - Technology
+  - Movies (May the force be with you!)
+  - Skateboarding
+  - Calm monday mornings
+  - Learning new things
+  
+- ⭐Find me on my [LinkedIn](www.linkedin.com/in/gustavolimalent)!
